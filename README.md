@@ -1,3 +1,6 @@
-# Computer-Vision-Project1
+# Hand-Drawn Sketch Classification
 
-This repository contains code for our project on Computer Vision. We have tested various feature extraction techniques for classification of Sketch Images on the Quick Draw dataset open sourced by Google. We have also compared accuracies of various techniques on multiple supervised learning models such as SVM,KNN,Logistic Regression and Random Forest.
+Classifying hand-drawn sketches from Google's open-sourced [Quick, Draw!](https://quickdraw.withgoogle.com/data) dataset. I tested several feature-extraction techniques and compared their accuracy across a few supervised models: SVM, KNN, Logistic Regression, and Random Forest.
+
+- `CV_Hand_drawn_sketch_Classification.ipynb` — the notebook
+- `cv_hand_drawn_sketch_classification.py` — script version
